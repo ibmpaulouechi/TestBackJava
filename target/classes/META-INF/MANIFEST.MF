@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: paulouechi
+Build-Jdk: 11.0.2
+Implementation-Title: TestBackJava
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.santander.controle.api
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/TestBackJava/
+Created-By: Maven Integration for Eclipse
+
